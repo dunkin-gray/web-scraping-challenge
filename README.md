@@ -5,13 +5,16 @@ For this challenge, I created a web application that scrapes data on Mars from f
 
 Mission_to_Mars
 
-mission_to_mars.ipynd | My jupyter noteboook file with my intial analysis.
+mission_to_mars.ipynb | My jupyter noteboook file with my intial analysis.
 Mission_to_Mars/Flask_App
 
 scrape_mars.py | Returns a Python dictionary containing all of the scraped data from my Jupyter Notebook.
 app.py | Routes all of the data from my scrape_mars.py file and passes the data into an HTML template.
 templates/index.html | Displays the Mars data dictionary in a webpage format.
+
 Mission_to_Mars/Images
 
 MissionToMars.png | A screenshot of my final application.
 MissionToMars
+
+![image](https://user-images.githubusercontent.com/78669271/121290650-d9883300-c89b-11eb-95ef-82ee66d33f7d.png)
